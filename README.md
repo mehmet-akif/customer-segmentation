@@ -50,9 +50,6 @@ The goal of this project is to segment customers into distinct groups based on t
 - **Silhouette Score**: Achieved a score of `0.54`, indicating well-separated clusters.
 - Clustering visualization reveals clear segmentation of customers based on spending habits and purchase frequency.
 
-![Customer Segments](cluster_visualization.png)  
-(*Replace this placeholder with an actual image of your scatterplot visualization.*)
-
 ## Technologies Used
 
 - **Languages**: Python
@@ -67,5 +64,5 @@ The goal of this project is to segment customers into distinct groups based on t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/customer-segmentation.git
+   git clone https://github.com/<mehmet-akif>/customer-segmentation.git
 
